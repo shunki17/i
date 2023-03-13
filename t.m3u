@@ -63,16 +63,10 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:2
 http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
 #EXTINF:-1 tvg-chno="181" tvg-id="bsfuji" tvg-name="BSフジ (WF)" tvg-logo="https://i.imgur.com/LyrhEz0.png" group-title="BS",BSフジ (WF)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-chno="191" tvg-id="wowowprime" tvg-name="WOWOW プライム (720p)" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="BS",WOWOW プライム (720p)
-http://cdn.us195.jpnettv.live:1935/jptv/wowprime_720/playlist.m3u8
 #EXTINF:-1 tvg-chno="191" tvg-id="wowowprime" tvg-name="WOWOW プライム (WF)" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="BS",WOWOW プライム (WF)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-chno="192" tvg-id="wowowlive" tvg-name="WOWOW ライブ (720p)" tvg-logo="https://i.imgur.com/jPAYT5F.png" group-title="BS",WOWOW ライブ (720p)
-http://cdn.us195.jpnettv.live:1935/jptv/wowlive_720/playlist.m3u8
 #EXTINF:-1 tvg-chno="192" tvg-id="wowowlive" tvg-name="WOWOW ライブ (WF)" tvg-logo="https://i.imgur.com/jPAYT5F.png" group-title="BS",WOWOW ライブ (WF)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-chno="193" tvg-id="wowowcinema" tvg-name="WOWOW シネマ (720p)" tvg-logo="https://i.imgur.com/Wx9fkCW.png" group-title="BS",WOWOW シネマ (720p)
-http://cdn.us195.jpnettv.live:1935/jptv/wowcinema_720/playlist.m3u8
 #EXTINF:-1 tvg-chno="193" tvg-id="wowowcinema" tvg-name="WOWOW シネマ (WF)" tvg-logo="https://i.imgur.com/Wx9fkCW.png" group-title="BS",WOWOW シネマ (WF)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-chno="200" tvg-id="starch1" tvg-name="スターチャンネル1 (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/zzcztoQ.png" group-title="BS",スターチャンネル1 (480p) [Not 24/7]
@@ -83,8 +77,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:2
 http://redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8
 #EXTINF:-1 tvg-chno="201" tvg-id="starch2" tvg-name="スターチャンネル2 (WF)" tvg-logo="https://i.imgur.com/M5PpQss.png" group-title="BS",スターチャンネル2 (WF)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="starch3" tvg-name="スターチャンネル3 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/77vu7v4.png" group-title="BS",スターチャンネル3 (720p) [Not 24/7]
-https://cdn.us195.jpnettv.live/jptv/starch3_720/playlist.m3u8
 #EXTINF:-1 tvg-id="starch3" tvg-name="スターチャンネル3 (WF)" tvg-logo="https://i.imgur.com/77vu7v4.png" group-title="BS",スターチャンネル3 (WF)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-chno="222" tvg-id="bs12" tvg-name="TwellV (480p)" tvg-logo="https://i.imgur.com/rpRlJUm.png" group-title="BS",TwellV (480p)
@@ -109,8 +101,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:2
 http://cdnv148.cloudrsst.com:1935/jptv/jsports1_720/playlist.m3u8
 #EXTINF:-1 tvg-chno="245" tvg-id="js4" tvg-name="J Sports 4 (WF)" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="BS",J Sports 4 (WF)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-chno="255" tvg-id="nihoneiga" tvg-name="日本映画専門チャンネル (720p)" tvg-logo="https://i.imgur.com/vMtPnYi.png" group-title="BS",日本映画専門チャンネル (720p)
-https://cdn.us195.jpnettv.live/jptv/igasennmonn_720/playlist.m3u8
 #EXTINF:-1 tvg-chno="255" tvg-id="nihoneiga" tvg-name="日本映画専門チャンネル (WF)" tvg-logo="https://i.imgur.com/vMtPnYi.png" group-title="BS",日本映画専門チャンネル (WF)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-chno="256" tvg-id="disneych" tvg-name="ディズニー・チャンネル (480p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="BS",ディズニー・チャンネル (480p) [Not 24/7]
@@ -119,8 +109,6 @@ http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 tvg-chno="55" tvg-id="ShopChannel.jp" tvg-name="ショップチャンネル (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/22HhY28.png" group-title="CS",ショップチャンネル (1080p) [Not 24/7]
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-chno="218" tvg-id="toeich" tvg-name="東映チャンネル (540p) [Not 24/7]" tvg-logo="https://i.imgur.com/LOlo6Cy.png" group-title="CS",東映チャンネル (540p) [Not 24/7]
-https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8
 #EXTINF:-1 tvg-chno="218" tvg-id="toeich" tvg-name="東映チャンネル (WF)" tvg-logo="https://i.imgur.com/LOlo6Cy.png" group-title="CS",東映チャンネル (WF)
 https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -134,12 +122,8 @@ https://ythls.onrender.com/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-chno="161" tvg-id="QVCJapan.jp" tvg-name="QVC Japan (720p)" tvg-logo="https://i.imgur.com/xWSzQ34.png" group-title="CS",QVC Japan (720p)
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 tvg-chno="223" tvg-id="neco" tvg-name="映画・チャンネルNECO (540p)" tvg-logo="https://i.imgur.com/qPsL8Ho.png" group-title="CS",映画・チャンネルNECO (540p)
-https://cdn.us195.jpnettv.live/jptv/Neco/playlist.m3u8
 #EXTINF:-1 tvg-chno="223" tvg-id="neco" tvg-name="映画・チャンネルNECO (WF)" tvg-logo="https://i.imgur.com/qPsL8Ho.png" group-title="CS",映画・チャンネルNECO (WF)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-chno="240" tvg-id="movieplus" tvg-name="ムービープラス (540p)" tvg-logo="https://i.imgur.com/7MV1XW8.png" group-title="CS",ムービープラス (540p)
-http://cdn.us195.jpnettv.live:1935/jptv/movieplus_540/playlist.m3u8
 #EXTINF:-1 tvg-chno="240" tvg-id="movieplus" tvg-name="ムービープラス (WF)" tvg-logo="https://i.imgur.com/7MV1XW8.png" group-title="CS",ムービープラス (WF)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-chno="250" tvg-id="skya" tvg-name="スカイA (540p) [Not 24/7]" tvg-logo="https://i.imgur.com/KSziBbf.png" group-title="CS",スカイA (540p) [Not 24/7]
@@ -148,16 +132,12 @@ EXTINF:-1 tvg-chno="250" tvg-id="skya" tvg-name="スカイA (WF)" tvg-logo="http
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 EXTINF:-1 tvg-chno="254" tvg-id="gaora" tvg-name="GAORA (WF)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png" group-title="CS",GAORA (WF)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-chno="257" tvg-id="ntvgplus" tvg-name="日テレジータス (540p)" tvg-logo="https://i.imgur.com/x55kItq.png" group-title="CS",日テレジータス (540p)
-https://cdn.us195.jpnettv.live/jptv/japan_tv_G_540/playlist.m3u8
 #EXTINF:-1 tvg-chno="257" tvg-id="ntvgplus" tvg-name="日テレジータス (WF)" tvg-logo="https://i.imgur.com/x55kItq.png" group-title="CS",日テレジータス (WF)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-chno="262" tvg-id="golfnw" tvg-name="ゴルフネットワーク(WF)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golf-network-jp.png" group-title="CS",ゴルフネットワーク(WF)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-chno="292" tvg-id="" tvg-name="時代劇専門チャンネル (540p)" tvg-logo="https://i.imgur.com/5lAH0DZ.png" group-title="CS",時代劇専門チャンネル (540p)
 https://cdnv148.cloudrsst.com/jptv/jidaigeki_540/playlist.m3u8
-#EXTINF:-1 tvg-chno="293" tvg-id="familygeki" tvg-name="ファミリー劇場 (540p) [Not 24/7]" tvg-logo="https://i.imgur.com/h6vXfv7.png" group-title="CS",ファミリー劇場 (540p) [Not 24/7]
-https://cdn.us195.jpnettv.live/jptv/gekijjyou/playlist.m3u8
 #EXTINF:-1 tvg-chno="293" tvg-id="familygeki" tvg-name="ファミリー劇場 (WF)" tvg-logo="https://i.imgur.com/h6vXfv7.png" group-title="CS",ファミリー劇場 (WF)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-chno="294" tvg-id="homedrama" tvg-name="ホームドラマチャンネル (WF)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png" group-title="CS",ホームドラマチャンネル (WF)
@@ -174,8 +154,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:2
 http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
 #EXTINF:-1 tvg-chno="325" tvg-id="musicon" tvg-name="エムオン！ (WF)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" group-title="CS",エムオン！ (WF)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-chno="330" tvg-id="kidsstation" tvg-name="キッズステーション (540p) [Not 24/7]" tvg-logo="https://i.imgur.com/o5jSjcz.png" group-title="CS",キッズステーション (540p) [Not 24/7]
-https://cdn.us195.jpnettv.live/jptv/jkids_540/playlist.m3u8
 #EXTINF:-1 tvg-chno="330" tvg-id="kidsstation" tvg-name="キッズステーション (WF)" tvg-logo="https://i.imgur.com/o5jSjcz.png" group-title="CS",キッズステーション (WF)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-chno="333" tvg-id="at-x" tvg-name="AT-X (720p)" tvg-logo="https://i.imgur.com/turWday.png" group-title="CS",AT-X (720p)
