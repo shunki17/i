@@ -136,7 +136,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-chno="262" tvg-id="golfnw" tvg-name="ゴルフネットワーク(WF)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golf-network-jp.png" group-title="CS",ゴルフネットワーク(WF)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-chno="292" tvg-id="" tvg-name="時代劇専門チャンネル (540p)" tvg-logo="https://i.imgur.com/5lAH0DZ.png" group-title="CS",時代劇専門チャンネル (540p)
+#EXTINF:-1 tvg-chno="292" tvg-id="jidaigeki" tvg-name="時代劇専門チャンネル (540p)" tvg-logo="https://i.imgur.com/5lAH0DZ.png" group-title="CS",時代劇専門チャンネル (540p)
 https://cdnv148.cloudrsst.com/jptv/jidaigeki_540/playlist.m3u8
 #EXTINF:-1 tvg-chno="293" tvg-id="familygeki" tvg-name="ファミリー劇場 (WF)" tvg-logo="https://i.imgur.com/h6vXfv7.png" group-title="CS",ファミリー劇場 (WF)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
