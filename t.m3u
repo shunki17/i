@@ -21,6 +21,8 @@ https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="GunmaTV.jp" tvg-name="群馬テレビ (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/512px-Gtv_logo_ja_01.svg.png" group-title="地上波",群馬テレビ (720p)
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="ytv" tvg-name="読売テレビ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="地上波（関西）", 読売テレビ  
+https://cdnul194.cloudrsst.com/live/kansi_yomiuri_1080/playlist.m3u8
 #EXTINF:-1 tvg-chno="101" tvg-id="nhkbs1" tvg-name="NHK BS1" tvg-logo="https://i.imgur.com/1x8256Y.png" group-title="BS",NHK BS1
 https://cdn-us-186.cloudrsst.com/live/nhkbs1_720/playlist.m3u8
 #EXTINF:-1 tvg-chno="103" tvg-id="nhkbsp" tvg-name="NHK BSプレミアム" tvg-logo="https://i.imgur.com/fiJ3Pnh.png" group-title="BS",NHK BSプレミアム
@@ -130,3 +132,5 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-name="CNBC Asia (720p)" tvg-logo="https://i.imgur.com/Mn8Rsup.png" group-title="海外",CNBC Asia (720p)
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
+
+
