@@ -131,5 +131,25 @@ https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-name="CNBC Asia (720p)" tvg-logo="https://i.imgur.com/Mn8Rsup.png" group-title="海外",CNBC Asia (720p)
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
 
-
-
+#EXTINF:0,Animax (720p),,0
+https://cdn.us195.jpnettv.live/jptv/janimax_720/playlist.m3u8
+#EXTINF:0,Animax (720p),,0
+https://cdnv148.cloudrsst.com/jptv/janimax_720/playlist.m3u8
+#EXTINF:0,AT-X (720p) [Not 24/7],,0
+https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:0,Kansai TV (関西 テレビ) (JODX-DTV) (720p),,0
+https://cdnv148.cloudrsst.com/jptv/kansi_tv_720/playlist.m3u8
+#EXTINF:0,Nihon Eiga Senmon (720p),,0
+https://cdn.us195.jpnettv.live/jptv/igasennmonn_720/playlist.m3u8
+#EXTINF:0,Nihon Eiga Senmon (720p),,0
+https://cdnv148.cloudrsst.com/jptv/igasennmonn_720/playlist.m3u8
+#EXTINF:0,Tokyo MX1 (720p),,0
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+#EXTINF:0,Tokyo MX1 (720p),,0
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:0,Tokyo MX1 (360p),,0
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
+#EXTINF:0,Tokyo MX2 (720p),,0
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+#EXTINF:0,Tokyo MX2 (360p),,0
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
