@@ -44,6 +44,18 @@ https://cdnul194.cloudrsst.com/live/kansi_tv_1080/playlist.m3u8
 https://cdn-us-186.cloudrsst.com/live/nhkbs1_720/playlist.m3u8
 #EXTINF:-1 tvg-chno="103" tvg-id="nhkbsp" tvg-name="NHK BSプレミアム" tvg-logo="https://i.imgur.com/fiJ3Pnh.png" group-title="BS",NHK BSプレミアム
 https://cdn-us-186.cloudrsst.com/live/bspremium_720/playlist.m3u8
+#EXTINF:-1 tvg-chno="103" tvg-id="nhkbs4k" tvg-name="NHK BS4K" tvg-logo="" group-title="BS",NHK BS4K
+http://www.arp220.us:80/5838686431@Curly_MouseIPTV/Rk9kI8sbKG/1215
+#EXTINF:-1 tvg-chno="103" tvg-id="nhkbs4k" tvg-name="NHK BS4K 2" tvg-logo="" group-title="BS",NHK BS4K 2
+http://203.162.235.41:16912
+#EXTINF:-1 tvg-chno="103" tvg-id="nhkbs4k" tvg-name="NHK BS4K 3" tvg-logo="" group-title="BS",NHK BS4K 3
+http://redlabmcdn.s.llnwi.net/jp04/bs03hd/playlist.m3u8
+#EXTINF:-1 tvg-chno="103" tvg-id="nhkbs4k" tvg-name="NHK BS4K 4" tvg-logo="" group-title="BS",NHK BS4K 4
+http://itskoi.dothome.co.kr/jpn.php?id=B031
+#EXTINF:-1 tvg-chno="103" tvg-id="nhkbs4k" tvg-name="NHK BS4K 5" tvg-logo="" group-title="BS",NHK BS4K 5
+http://193.42.99.130:23455/NHKBS1/playlist.m3u8
+#EXTINF:-1 tvg-chno="103" tvg-id="nhkbs4k" tvg-name="NHK BS4K 6" tvg-logo="" group-title="BS",NHK BS4K 6
+https://playlist.vthanhtivi.pw/jptv/thRBrsQy5LgM0YhR7EJudg==/87fed9ea0d7924252c2350ac69c0e79b48d900f9.m3u8
 #EXTINF:-1 tvg-chno="141" tvg-id="bsntv" tvg-name="BS日テレ" tvg-logo="https://i.imgur.com/Zj3FywH.png" group-title="BS",BS日テレ
 https://cdn-us-186.cloudrsst.com/live/bsnihontv_720/playlist.m3u8
 #EXTINF:-1 tvg-chno="151" tvg-id="bsasahi" tvg-name="BS朝日" tvg-logo="https://i.imgur.com/tYe90nA.png" group-title="BS",BS朝日
