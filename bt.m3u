@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.dinhluong.jp/jp.xml,http://epg.dinhluong.jp/jpkansai.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg=""http://epg.hidari.moe/jp.xml,http://epg.hidari.moe/jpkansai.xml" tvg-shift=0 m3uautoload=1
 #地上波
 #EXTINF:-1 tvg-chno="1" tvg-id="nhkg" tvg-name="NHK 総合" tvg-logo="https://i.imgur.com/hQyNHDM.png" group-title="地上波",NHK 総合
 https://cdn-us-186.cloudrsst.com/live/kanto_nhk_g_1080/playlist.m3u8
