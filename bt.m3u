@@ -1,25 +1,21 @@
 #EXTM3U url-tvg=""http://epg.hidari.moe/jp.xml,http://epg.hidari.moe/jpkansai.xml" tvg-shift=0 m3uautoload=1
 #地上波
-#EXTINF:-1 tvg-chno="1" tvg-id="nhkg" tvg-name="NHK 総合" tvg-logo="https://i.imgur.com/hQyNHDM.png" group-title="地上波",NHK 総合
+#EXTINF:-1 tvg-chno="1" tvg-id="NHKGeneralTV.jp" tvg-name="NHK 総合" tvg-logo="https://i.imgur.com/hQyNHDM.png" group-title="地上波",NHK 総合
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-chno="2" tvg-id="nhke" tvg-name="NHK Eテレ" tvg-logo="https://i.imgur.com/cQObxr1.png" group-title="地上波",NHK Eテレ
+#EXTINF:-1 tvg-chno="2" tvg-id="NHKEducationalTV.jp" tvg-name="NHK Eテレ" tvg-logo="https://i.imgur.com/cQObxr1.png" group-title="地上波",NHK Eテレ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-chno="4" tvg-id="ntv" tvg-name="日本テレビ" tvg-logo="https://i.imgur.com/U0ZFkZw.png" group-title="地上波",日本テレビ
+#EXTINF:-1 tvg-chno="4" tvg-id="NipponTV.jp" tvg-name="日本テレビ" tvg-logo="https://i.imgur.com/U0ZFkZw.png" group-title="地上波",日本テレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-chno="5" tvg-id="tvasahi" tvg-name="テレビ朝日" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="地上波",テレビ朝日
+#EXTINF:-1 tvg-chno="5" tvg-id="TVAsahi.jp" tvg-name="テレビ朝日" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="地上波",テレビ朝日
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-chno="6" tvg-id="tbs" tvg-name="TBS" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="地上波",TBS
+#EXTINF:-1 tvg-chno="6" tvg-id="JORXDTV.jp" tvg-name="TBS" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="地上波",TBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-chno="7" tvg-id="tvtokyo" tvg-name="テレビ東京 (480p)" tvg-logo="https://i.imgur.com/tDyxk0Y.png" group-title="地上波",テレビ東京
+#EXTINF:-1 tvg-chno="7" tvg-id="JOTXDTV.jp" tvg-name="テレビ東京 (480p)" tvg-logo="https://i.imgur.com/tDyxk0Y.png" group-title="地上波",テレビ東京
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-chno="8" tvg-id="fujitv" tvg-name="フジテレビ" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="地上波",フジテレビ 
+#EXTINF:-1 tvg-chno="8" tvg-id="JOCXDTV.jp" tvg-name="フジテレビ" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="地上波",フジテレビ 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-chno="9" tvg-id="tokyomx" tvg-name="TOKYO MX1 (480p)" tvg-logo="https://i.imgur.com/0i5rDRN.png" group-title="地上波",TOKYO MX1 (480p)
+#EXTINF:-1 tvg-chno="9" tvg-id="JOMXDTV.jp" tvg-name="TOKYO MX" tvg-logo="https://i.imgur.com/0i5rDRN.png" group-title="地上波",TOKYO MX
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-chno="9" tvg-id="tokyomx" tvg-name="TOKYO MX1 (720p)" tvg-logo="https://i.imgur.com/igia8OX.png" group-title="地上波",TOKYO MX1 (720p)
-https://movie.mcas.jp/mcas/mx1_2/master.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-id="tokyomx" tvg-name="TOKYO MX2 (720p)" tvg-logo="https://i.imgur.com/SwvuR00.png" group-title="地上波",TOKYO MX2 (720p)
-https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="GunmaTV.jp" tvg-name="群馬テレビ (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/512px-Gtv_logo_ja_01.svg.png" group-title="地上波",群馬テレビ (720p)
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 
@@ -28,37 +24,35 @@ https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-chno="3" tvg-id="suntv" tvg-name="サンテレビ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="地上波（関西）", サンテレビ
 https://cdnul194.cloudrsst.com/live/kansi_sun_tv_1080/playlist.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="ytv" tvg-name="読売テレビ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="地上波（関西）", 読売テレビ  
+#EXTINF:-1 tvg-chno="10" tvg-id="JOIXDTV.jp" tvg-name="読売テレビ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="地上波（関西）", 読売テレビ  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-chno="4" tvg-id="mbs" tvg-name="MBS毎日放送" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1280px-Mainichi_Broadcasting_System_logo.svg.png" group-title="地上波（関西）", MBS毎日放送  
+#EXTINF:-1 tvg-chno="4" tvg-id="JOOYDTV.jp" tvg-name="MBS毎日放送" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1280px-Mainichi_Broadcasting_System_logo.svg.png" group-title="地上波（関西）", MBS毎日放送  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-chno="5" tvg-id="kbs" tvg-name="KBS京都" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png" group-title="地上波（関西）", KBS京都 
+#EXTINF:-1 tvg-chno="5" tvg-id="JOBRDTV.jp" tvg-name="KBS京都" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png" group-title="地上波（関西）", KBS京都 
 https://code.vthanhtivi.pw/getlink/jptv/116/playlist.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="abc" tvg-name="ABCテレビ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/1280px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="地上波（関西）", ABCテレビ
+#EXTINF:-1 tvg-chno="6" tvg-id="JOAYDTV.jp" tvg-name="ABCテレビ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/1280px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="地上波（関西）", ABCテレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-chno="7" tvg-id="tvosaka" tvg-name="テレビ大阪" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/1280px-Tv_osaka_logo.svg.png" group-title="地上波（関西）", テレビ大阪
+#EXTINF:-1 tvg-chno="7" tvg-id="TVOsaka.jp" tvg-name="テレビ大阪" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/1280px-Tv_osaka_logo.svg.png" group-title="地上波（関西）", テレビ大阪
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-chno="8" tvg-id="ktv" tvg-name="関西テレビ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/1280px-Ktv_logo.svg.png" group-title="地上波（関西）", 関西テレビ
+#EXTINF:-1 tvg-chno="8" tvg-id="JODXDTV.jp" tvg-name="関西テレビ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/1280px-Ktv_logo.svg.png" group-title="地上波（関西）", 関西テレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
 
 #BS
-#EXTINF:-1 tvg-chno="101" tvg-id="nhkbs1" tvg-name="NHKBS1" tvg-logo="https://i.imgur.com/1x8256Y.png" group-title="BS",NHK BS1
+#EXTINF:-1 tvg-chno="101" tvg-id="NHKBS1.jp" tvg-name="NHKBS1" tvg-logo="https://i.imgur.com/1x8256Y.png" group-title="BS",NHK BS1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-chno="103" tvg-id="nhkbsp" tvg-name="NHKBSプレミアム" tvg-logo="https://i.imgur.com/fiJ3Pnh.png" group-title="BS",NHK BSプレミアム
+#EXTINF:-1 tvg-chno="103" tvg-id="NHKBSPremium.jp" tvg-name="NHKBSプレミアム" tvg-logo="https://i.imgur.com/fiJ3Pnh.png" group-title="BS",NHK BSプレミアム
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-chno="103" tvg-id="nhkbsp" tvg-name="NHK BSプレミアム" tvg-logo="https://i.imgur.com/fiJ3Pnh.png" group-title="BS",NHK BSプレミアム
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-chno="104" tvg-id="nhkbs4k" tvg-name="NHKBS4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/NHK_BS4K_logo_2020.png"" group-title="BS",NHK BS4K
+#EXTINF:-1 tvg-chno="104" tvg-id="nhkbs4k" tvg-name="NHKBS4K.jp"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/NHK_BS4K_logo_2020.png"" group-title="BS",NHK BS4K
 https://code.vthanhtivi.pw/getlink/jptv/163/playlist.m3u8
-#EXTINF:-1 tvg-chno="141" tvg-id="bsntv" tvg-name="BS日テレ" tvg-logo="https://i.imgur.com/Zj3FywH.png" group-title="BS",BS日テレ
+#EXTINF:-1 tvg-chno="141" tvg-id="BSNipponTV.jp" tvg-name="BS日テレ" tvg-logo="https://i.imgur.com/Zj3FywH.png" group-title="BS",BS日テレ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-chno="151" tvg-id="bsasahi" tvg-name="BS朝日" tvg-logo="https://i.imgur.com/tYe90nA.png" group-title="BS",BS朝日
+#EXTINF:-1 tvg-chno="151" tvg-id="BSAsahi.jp" tvg-name="BS朝日" tvg-logo="https://i.imgur.com/tYe90nA.png" group-title="BS",BS朝日
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-chno="161" tvg-id="bstbs" tvg-name="BS-TBS" tvg-logo="https://i.imgur.com/C3MK6Tx.png" group-title="BS",BS-TBS
+#EXTINF:-1 tvg-chno="161" tvg-id="BSTBS.jp" tvg-name="BS-TBS" tvg-logo="https://i.imgur.com/C3MK6Tx.png" group-title="BS",BS-TBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-chno="171" tvg-id="bstvtokyo" tvg-name="BSテレ東" tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="BS",BSテレ東
+#EXTINF:-1 tvg-chno="171" tvg-id="BSTVTokyo.jp" tvg-name="BSテレ東" tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="BS",BSテレ東
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-chno="181" tvg-id="bsfuji" tvg-name="BSフジ" tvg-logo="https://i.imgur.com/LyrhEz0.png" group-title="BS",BSフジ
+#EXTINF:-1 tvg-chno="181" tvg-id="BSFuji.jp" tvg-name="BSフジ" tvg-logo="https://i.imgur.com/LyrhEz0.png" group-title="BS",BSフジ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-chno="191" tvg-id="wowowprime" tvg-name="WOWOWプライム" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="BS",WOWOW プライム
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
