@@ -1,3 +1,4 @@
+纳加源（断流）,#genre#
 NHK-G,vjms://14.102.154.164:8500/live/cid=309
 NHK-E,vjms://14.102.154.164:8500/live/cid=310
 Nippon TV,vjms://14.102.154.164:8500/live/cid=312
