@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/512px-AT-X_logo.svg.png",AT-X (720p)
+https://sub.neetball.net/live/neet.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Animax
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="General",BS Fuji TV
+http://redlabmcdn.s.llnwi.net/nv02/bs07hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="General",BS Asahi
+http://redlabmcdn.s.llnwi.net/nv02/bs04hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",BS 12
+http://redlabmcdn.s.llnwi.net/nv02/bs08hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="General",BS Nippon TV
+http://redlabmcdn.s.llnwi.net/nv02/bs03hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="General",BS TV Tokyo
+http://redlabmcdn.s.llnwi.net/nv02/bs06hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/9u9TaMA.png",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/3K36JEA.jpg",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Star 1
+http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Star 2
+http://redlabmcdn.s.llnwi.net/nv02/bs10hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",TBS
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/vgEnHX6.png",TV Tokyo
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX1
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/WLgD1v7.png",Tokyo MX1
+https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX1
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX2
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/WLgD1v7.png",Tokyo MX2
+https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/9VXxnlo.png",ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/3K36JEA.jpg",日本购物1
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/3K36JEA.jpg",日本购物2
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/3K36JEA.jpg",日本购物3
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/3K36JEA.jpg",日本购物4
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined;FRANCE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/512px-Aniplus_Asia_Logo.png",Aniplus (Indonesian subtitle) (576p) [Geo-blocked]
+http://210.210.155.37/dr9445/h/h02/index.m3u8?checkedby:iptvcat.com
